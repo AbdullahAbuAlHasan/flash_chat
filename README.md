@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Alt text] (https://github.com/londonappbrewery/Images/raw/master/flash_chat_flutter_demo.gif)
+![Alt text](https://github.com/londonappbrewery/Images/raw/master/flash_chat_flutter_demo.gif)
